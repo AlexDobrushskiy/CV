@@ -2,3 +2,11 @@
   background-image: url("../img/code.jpg");
   background-size: cover;
 }
+
+li.list-inline-item>a {
+    color: darkgray !important;
+}
+
+li.list-inline-item>a:hover {
+    color: coral !important;
+}
